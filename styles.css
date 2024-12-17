@@ -117,7 +117,7 @@ body {
 
 .features .feature {
     padding: 1rem;
-    background: #333;
+    background: #9d9999;
     border-radius: 8px;
 }
 
@@ -140,7 +140,7 @@ body {
 }
 
 .card {
-    background: #333;
+    background: #9d9999;
     padding: 2rem;
     border-radius: 8px;
     text-align: center;
