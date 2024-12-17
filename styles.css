@@ -7,8 +7,8 @@
 }
 
 body {
-    background-color: #1f1f1f;
-    color: #fff;
+    background-color: #d7d7d7d7;
+    color: #1f1f1f;
     line-height: 1.6;
 }
 
@@ -30,7 +30,7 @@ body {
 .header .logo {
     font-size: 1.5rem;
     font-weight: bold;
-    color: #fff;
+    color: #1f1f1f;
 }
 
 .header nav {
@@ -44,20 +44,20 @@ body {
 }
 
 .header .nav-links a {
-    color: #ccc;
+    color: #1f1f1f;
     text-decoration: none;
     transition: color 0.3s;
 }
 
 .header .nav-links a:hover {
-    color: #fff;
+    color: #1f1f1f;
 }
 
 .header .btn {
-    background: #444;
+    background: #a09d9d;
     padding: 0.5rem 1rem;
     border: none;
-    color: #fff;
+    color: #1f1f1f;
     cursor: pointer;
     border-radius: 5px;
     text-decoration: none;
@@ -100,7 +100,7 @@ body {
 
 /* Features Section */
 .features {
-    background: #2b2b2b;
+    background: #d7d7d7d7;
     padding: 4rem 0;
     text-align: center;
 }
@@ -123,7 +123,7 @@ body {
 
 /* Pricing Section */
 .pricing {
-    background: #1f1f1f;
+    background: #d7d7d7d7;
     text-align: center;
     padding: 4rem 0;
 }
@@ -162,14 +162,14 @@ body {
 
 /* Footer */
 .footer {
-    background: #333;
+    background: #1f1f1f;
     padding: 2rem 0;
     text-align: center;
     font-size: 0.9rem;
 }
 
 .footer a {
-    color: #aaa;
+    color: #d7d7d7d7;
     text-decoration: none;
     margin: 0 0.5rem;
 }
